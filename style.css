@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
     display: flex;
-    color: pink;
+    background-color: pink;
     flex-wrap: wrap;
   }
 
@@ -11,41 +11,60 @@
     display: flex;
     float: left;
     background-color: red;
-    height: 100px;
+    height: 200px;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
   }
 
   .box2{
     display: flex;
     align-items: center;
     background-color: red;
-    height: 100px;
+    height: 200px;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+
   }
 
   .box3{
     display: flex;
     float:right;
     background-color: red;
-    height: 100px;
+    height: 200px;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
   }
 
   
-
   .box4{
     display: flex;
     float:left;
-    height: 200px;
+    height: 400px;
     background-color:blue;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
   }
 
   .box5{
     display: flex;
     float:right;
-    height: 200px;
+    height: 400px;
     background-color:blue;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
   }
 
   div{
     display: flex;
+    width: 100%;
+    color: black;
+    font-size: 50px;
+    font-weight: bolder;
   }
 
    
