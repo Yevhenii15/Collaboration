@@ -1,0 +1,53 @@
+
+  body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    color: pink;
+  }
+
+  .box1 {
+    display: flex;
+    float: left;
+    background-color: red;
+    height: 100px;
+
+  }
+
+  .box2{
+    display: flex;
+    align-items: center;
+    background-color: red;
+    height: 100px;
+
+  .box3{
+    display: flex;
+    float:right;
+    background-color: red;
+    height: 100px;
+  }
+
+  
+
+  .box4 {
+    display: flex;
+    float:left;
+    height: 200px;
+    background-color:blue;
+
+  }
+
+  .box5 {
+    display: flex;
+    float:right;
+    height: 200px;
+    background-color:blue;
+
+  }
+
+  div{
+    display: flex;
+  }
+
+   
+  
