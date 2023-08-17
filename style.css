@@ -4,6 +4,7 @@
     padding: 0;
     display: flex;
     color: pink;
+    flex-wrap: wrap;
   }
 
   .box1 {
@@ -19,7 +20,7 @@
     align-items: center;
     background-color: red;
     height: 100px;
-
+  }
   .box3{
     display: flex;
     float:right;
@@ -47,6 +48,7 @@
 
   div{
     display: flex;
+    width: 100%;
   }
 
    
